@@ -25,7 +25,7 @@ This repository contains following files:
 
 The following commands can be used for reading the TidyData.txt into R and viewing it:
 
-`TidyData <- read.table("https://raw.githubusercontent.com/DaveAzz/Getting_and_Cleaning_Data_Course_Project/main/TidyData.txt", header = TRUE)`
+`TidyData <- read.table("https://raw.githubusercontent.com/DaveAzz/GettingAndCleaningDataCourseProject/main/TidyData.txt", header = TRUE)`
 <br/>
 `View(TidyData)`
 
